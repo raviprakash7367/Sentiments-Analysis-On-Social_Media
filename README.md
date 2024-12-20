@@ -1,4 +1,4 @@
-About the Project
+About the Project-
 
 This project explores sentiment analysis using various machine learning and deep learning techniques on social media data. The aim is to analyze and understand sentiments expressed in textual data from platforms like Instagram, Facebook, Twitter, and Reddit.
 
